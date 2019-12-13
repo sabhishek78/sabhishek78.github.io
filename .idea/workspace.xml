@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38008d03-4d0f-46e9-a77f-f24c9ac31fff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Abhishektimes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quotes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tictactoe.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1d2e113c-08e9-4b00-9040-88a2000e3b63.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/NewYorkScreen Layout.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quotesAnimationDemo.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="119" column="54" selection-start-line="119" selection-start-column="54" selection-end-line="119" selection-end-column="54" />
-              <folding>
-                <element signature="e#5457#5511#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-4081">
+              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -90,6 +81,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,13 +92,28 @@
             <path>
               <item name="portfolioWebsite-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolioWebsite-master" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolioWebsite-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolioWebsite-master" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="codeStyles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolioWebsite-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolioWebsite-master" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolioWebsite-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolioWebsite-master" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -146,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575886821548</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second">
+      <created>1576131040951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131040952</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -154,7 +168,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3067114" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25704697" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -177,7 +191,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/NewYorkScreen Layout.png" />
@@ -199,11 +214,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="119" column="54" selection-start-line="119" selection-start-column="54" selection-end-line="119" selection-end-column="54" />
-          <folding>
-            <element signature="e#5457#5511#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-4081">
+          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
         </state>
       </provider>
     </entry>
